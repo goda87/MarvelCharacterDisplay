@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MarvelCharacterDisplay</string>
+    <string name="splash_text">David Godayol Roca</string>
+
+    <string name="no_description">Description not available.</string>
+    <string name="no_name">Name not available.</string>
+
+    <string name="list_search_title">Busca tu súper-héroe</string>
+
+    <string name="details_links">Links:</string>
+    <string name="details_links_Details">Detalles</string>
+    <string name="details_links_Wiki">Wiki</string>
+    <string name="details_links_Comics">Comics</string>
+
+    <string name="details_tabs_Comics">(%d) Comics</string>
+    <string name="details_tabs_Events">(%d) Events</string>
+
+</resources>
